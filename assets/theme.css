@@ -32674,6 +32674,7 @@ html.ie .desctop-menu-large .tt-stuck-nav .tt-stuck-parent-menu .tt-desctop-menu
 }
 .tt-mobile-header .tt-logo-container{
     padding: 15px 0 20px;
+    background-color: black;
 }
 
 @media (max-width: 480px){
